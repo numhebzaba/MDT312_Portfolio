@@ -1,0 +1,10 @@
+form{
+    background-color: rgb(253, 242, 186);
+    font-family: serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+fieldset{
+    border-style: dashed;
+}
